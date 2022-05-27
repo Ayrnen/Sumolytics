@@ -1,0 +1,12 @@
+Create Tournament class
+Create Match class
+Create Wrestler Class
+
+In a dynamically created list of days
+Store of a dynamically created list of matches
+
+Have
+
+When day > 15 have an end tournament function that saves and resets records
+
+create method of re ranking wrestlers
